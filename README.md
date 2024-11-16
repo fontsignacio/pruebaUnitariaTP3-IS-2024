@@ -1,8 +1,8 @@
 # Prueba Unitaria Piedra Papel Tijera - TP3 - Ingenieria Software
 
 # Docentes:  
-  Vicente, Francisco 
-  Doufour, Alexandra  
+- Vicente, Francisco 
+- Doufour, Alexandra  
 # Integrantes grupo N° 7  
 - Sarmiento, Joaquín Esteban - 50152 
 - Mercado, Agustín Mariano - 53843 
