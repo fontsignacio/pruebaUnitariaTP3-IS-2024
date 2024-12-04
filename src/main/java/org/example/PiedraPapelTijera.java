@@ -10,7 +10,7 @@ public class PiedraPapelTijera {
 
     public String jugar(Jugada jugador1, Jugada jugador2) {
         final String ganador1 = "Jugador 1";
-        final String ganador2 = "Jugador 2";
+        final String ganador2 = "Jugador 12";
         final String empate = "Empate";
         final String error = "Error";
 
